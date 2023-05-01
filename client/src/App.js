@@ -1,10 +1,10 @@
 import './App.css'
+import MainPage from './components/MainPage'
 
 function App() {
   return (
     <div className='App'>
-      <h1>Portfolio Page</h1>
-      <h3>By Chris Savasta</h3>
+      <MainPage></MainPage>
     </div>
   )
 }
